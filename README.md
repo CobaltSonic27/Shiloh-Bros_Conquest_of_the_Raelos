@@ -1,2 +1,13 @@
-# Shiloh-Bros_Conquest_of_the_Raelos
-A funny command-line RPG game based on Shiloh&amp;Bros lore.
+############################################################################################################
+################################### SHILOH&BROS - CONQUEST OF THE RAELOS ###################################
+############################################################################################################
+#                                                                                                          #
+#                           A FUNNY COMMAND-LINE GAME BASED ON SHILOH&BROS LORE                            #
+#                                                                                                          #
+#                          CHOOSE YOUR FAVORITE CHARACTER AND EXPLORE NEW RAELOS                           #
+#                                                                                                          #
+#                     FIGHT VARIOUS CREATURES, CLAIM ARTEFACTS AND INCREASE YOUR LEVEL                     #
+#                                                                                                          #
+############################################################################################################
+#                                          A COBALTSONIC CREATION                                          #
+############################################################################################################
